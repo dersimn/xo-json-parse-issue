@@ -1,0 +1,10 @@
+{
+  "name": "xo-json-parse-issue",
+  "version": "0.0.0",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "xo": "^0.38.2"
+  }
+}
